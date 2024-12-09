@@ -26,6 +26,7 @@ added the following:
 Interesting features (beyond the scope of the assignment)
 - I made my own hand-held item (sword)
 - I made my own enemies (The ghosts)
+- I made the 3d music notes
 - I made my own start/end menu + the backgrounds
 - I added lighting
 - I added music/sound
